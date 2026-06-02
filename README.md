@@ -267,7 +267,7 @@ Assignment_Week2_Name.ipynb
 Example:
 
 ```text
-Assignment_Week3_PradipKoirala.ipynb
+Assignment_Week3_eveshrestha.ipynb
 ```
 
 ## Project Naming
