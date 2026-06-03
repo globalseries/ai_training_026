@@ -73,6 +73,30 @@ Week1_Assignment_eveshrestha.pdf
 
 ---
 
-## Deadline
+## 📤 Assignment Submission
 
-Submit before the start of Week 2.
+Submit your assignment through the **GitHub Discussions** section.
+
+### Steps
+
+1. Open the **Discussions** tab.
+2. Select **Week 1 Assignments**.
+3. Click **New Discussion**.
+4. Title format:
+
+```text
+[Week 1] Your Full Name
+```
+
+Example:
+
+```text
+[Week 1] Eve Shrestha
+```
+
+5. Paste your response directly or attach a PDF.
+
+### Deadline
+
+Before the start of Week 2.
+
